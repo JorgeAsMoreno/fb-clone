@@ -1,0 +1,18 @@
+:root {
+  --body: #f1f2f5;
+  --blue: #2e81f4;
+  --customGrey: #eff2f5;
+  --gray: #808080;
+  --lightGray: #d3d3d3;
+  --white: #fff;
+}
+
+.App {
+  background-color: var(--body);
+  height: 100vh;
+}
+
+.app-body {
+  display: flex;
+  justify-content: space-around;
+}
